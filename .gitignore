@@ -1,0 +1,7 @@
+nvim/.config/nvim/plugged/
+nvim/.config/nvim/tmp/
+base16-kitty/
+vim/.vim/autoload/
+vim/.vim/tmp
+vim/.vim/plugged
+vim/.vim/.netrwhist
